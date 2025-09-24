@@ -15,7 +15,7 @@ namespace LagerHanteringsSystem
         static void Main(string[] args)
         {
             // 1. Läs in produkter och ordrar
-            LoadProductsFromCsv(@"C:\temp\LagerHanteringsSystem\LagerHanteringsSystem\obj\Debug\net8.0\lager.csv");
+            LoadProductsFromCsv(@"C:\Users\AHMOH\source\repos\assignment-oop-84ahmmoh\OOPAssignment\obj\Debug\net10.0\lager.csv");
             LoadOrdersFromCsv(@"C:\temp\LagerHanteringsSystem\LagerHanteringsSystem\obj\Debug\net8.0\Order.csv");
 
             // 2. Bearbeta ordrar
