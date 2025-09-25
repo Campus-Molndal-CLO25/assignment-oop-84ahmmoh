@@ -96,5 +96,3 @@ Varför bry sig om detta?
 Länkar
 
 GitHub Repo: https://github.com/orgs/Campus-Molndal-CLO25/repositories/assignment-oop-84ahmmoh
-Din privata fork: (byt ut till din egen länk efter du fork:at)  
-Kurshemsida: [lägg in länk om det är relevant]
