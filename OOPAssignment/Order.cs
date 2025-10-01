@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace OOPAssignment
+﻿namespace OOPAssignment
 {
-    // Representerar en enskild kundorder
-    class Order
+    public class Order
     {
         public string CustomerId { get; set; }
         public string CustomerName { get; set; }
